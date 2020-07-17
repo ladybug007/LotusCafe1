@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c7d04bb76856dc70f589ed9460c3ad2",
+    "revision": "ec08061bd579a4f3b5b310c5ac6ef092",
     "url": "/LotusCafe1/index.html"
   },
   {
