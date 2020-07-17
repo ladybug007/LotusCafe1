@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LotusCafe1/static/css/main.aee9b63b.chunk.css",
+    "main.js": "/LotusCafe1/static/js/main.ec5a7910.chunk.js",
+    "main.js.map": "/LotusCafe1/static/js/main.ec5a7910.chunk.js.map",
+    "runtime-main.js": "/LotusCafe1/static/js/runtime-main.9f75f18a.js",
+    "runtime-main.js.map": "/LotusCafe1/static/js/runtime-main.9f75f18a.js.map",
+    "static/css/2.09ede24d.chunk.css": "/LotusCafe1/static/css/2.09ede24d.chunk.css",
+    "static/js/2.e3f8b3a0.chunk.js": "/LotusCafe1/static/js/2.e3f8b3a0.chunk.js",
+    "static/js/2.e3f8b3a0.chunk.js.map": "/LotusCafe1/static/js/2.e3f8b3a0.chunk.js.map",
+    "index.html": "/LotusCafe1/index.html",
+    "precache-manifest.dc33f6eb0c4b17d047ec739fbd06562d.js": "/LotusCafe1/precache-manifest.dc33f6eb0c4b17d047ec739fbd06562d.js",
+    "service-worker.js": "/LotusCafe1/service-worker.js",
+    "static/css/2.09ede24d.chunk.css.map": "/LotusCafe1/static/css/2.09ede24d.chunk.css.map",
+    "static/css/main.aee9b63b.chunk.css.map": "/LotusCafe1/static/css/main.aee9b63b.chunk.css.map",
+    "static/js/2.e3f8b3a0.chunk.js.LICENSE.txt": "/LotusCafe1/static/js/2.e3f8b3a0.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/LotusCafe1/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.css": "/LotusCafe1/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f75f18a.js",
+    "static/css/2.09ede24d.chunk.css",
+    "static/js/2.e3f8b3a0.chunk.js",
+    "static/css/main.aee9b63b.chunk.css",
+    "static/js/main.ec5a7910.chunk.js"
+  ]
+}
