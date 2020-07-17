@@ -47,11 +47,11 @@ export default class Main extends Component{
         <NavBar/>
         <Switch>
         
-          <Route exact path='/home' component={HomePage} />
+          <Route exact path='/' component={HomePage} />
         
           <Route path='/contact' component={Contact} />
           <Route path='/cafe' component={Cafe}/>
-          <Redirect to='/home' />
+          <Redirect to='/' />
           
         </Switch>
         <Footer />
