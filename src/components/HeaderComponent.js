@@ -8,7 +8,7 @@ class Header extends Component {
             backgroundImage: "url('assets/images/home-page - Copy.jpg')",
             backgroundSize: 'cover',
             width: '100%',
-            height: '650px',
+            height: '600px',
             backgroundAttachment: 'fixed'
         }
        
